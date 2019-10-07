@@ -34,3 +34,8 @@ git reset --hard upstream/master
 ```bash
  git log
 ```
+
+
+```bash
+ git status
+```
