@@ -3,30 +3,30 @@ this repository is temp stuff. It will be removed.
 
 
 
-```
+```bash
  git clone URL
-```bash
-
 ```
+
+```bash
   git push
-```bash
-
 ```
-  git remote add upstream URL
+
 ```bash
+  git remote add upstream URL
+```
 
 ```
   git fetch upstream
 ```bash
 
-```
+```bash
 git reset --hard upstream/master
-```bash
-
 ```
+
+```bash
   git add .
-``` bash
+``` 
 
-```
-  git commit
 ```bash
+  git commit
+```
