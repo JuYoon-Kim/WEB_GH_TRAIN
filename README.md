@@ -39,3 +39,7 @@ git reset --hard upstream/master
 ```bash
  git status
 ```
+
+```bash
+git checkout
+```
