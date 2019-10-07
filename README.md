@@ -30,3 +30,7 @@ git reset --hard upstream/master
 ```bash
   git commit
 ```
+
+```bash
+ git log
+```
