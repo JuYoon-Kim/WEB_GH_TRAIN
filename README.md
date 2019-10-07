@@ -15,9 +15,9 @@ this repository is temp stuff. It will be removed.
   git remote add upstream URL
 ```
 
-```
-  git fetch upstream
 ```bash
+  git fetch upstream
+```
 
 ```bash
 git reset --hard upstream/master
