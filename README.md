@@ -43,3 +43,4 @@ git reset --hard upstream/master
 ```bash
 git checkout
 ```
+--graph
