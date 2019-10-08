@@ -35,6 +35,9 @@ git reset --hard upstream/master
  git log
 ```
 
+```bash
+git log --graph
+```
 
 ```bash
  git status
@@ -43,4 +46,4 @@ git reset --hard upstream/master
 ```bash
 git checkout
 ```
---graph
+
